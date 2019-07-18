@@ -1,0 +1,44 @@
+body{
+  padding-bottom: 20px;
+}
+
+#headerWrapper{
+  position: relative;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  height: 600px;
+  background-image: url(../images/news3.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 700px;
+  background-position: top center;
+  background-attachment: fixed;
+}
+
+#logotext{
+  position: absolute;
+  width: 60%;
+  height: 300px;
+  background-image: url(../images/logo.png);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: 70% 150px;
+  top: 30%;
+  margin-top: -90px;
+  margin-left: 240px;
+}
+#pandor{
+  padding-top: 20px;
+  top: 10%;
+}
+#tte{
+  direction: rtl;
+  justify-content: center;
+}
+#pablo{
+  padding-left: 40px;
+}
+
+.table-auto{
+  width:auto;
+}

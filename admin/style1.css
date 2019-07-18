@@ -1,0 +1,31 @@
+#palaba{
+  padding-top: 100px;
+  padding-left: 10px;
+  top: 40%;
+}
+
+#come-on{
+  padding-top: 200px;
+  padding-left: 10px;
+  top: 40%;
+}
+
+#add-product-btn{
+  margin-bottom: 20px;
+}
+
+.saved-image img{
+  width:200px;
+  height:auto;
+}
+
+#login-form{
+  width:50%;
+  height:60%;
+  border:2px solid #000;
+  border-radius: 15px;
+  box-shadow: 7px 7px 15px rgba(0,0,0,0.6);
+  margin: 7% auto;
+  padding: 15px;
+  background-color: #fff;
+}
